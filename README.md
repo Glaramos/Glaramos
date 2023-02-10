@@ -2,7 +2,7 @@
 lenguaje=['JavaScript','typeScript','HTML','CSS','Python','java']
 framework=['Angular','Django','SpringBoot']
 herramienta=['FireBase','Postman','Wamp']
-certificados=['Desarrollo WEB FULL STACK CON PYTHON Y JAVASCRIPT Polo Tic Misiones','AWS-Almacenamiento en la Nube-Silicom Misiones']
+certificados=['Desarrollo WEB FULL STACK CON PYTHON Y JAVASCRIPT - PoloTic Misiones','AWS - Silicom Misiones']
 titulos=['Secretaria Ejecutiva Universitaria','Técnica Universitaria en Emprendimientos Turísticos']
    ```
  # 👩 ‍Sobre Mi... 
