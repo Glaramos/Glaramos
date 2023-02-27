@@ -29,5 +29,6 @@ Soy, *Secretaria Ejecutiva Universitaria* y *Técnica Universitaria en Emprendim
   He descubierto hace 4 años el mundo de la programación y me he sumergido en ella desde entonces...
   Soy una entusiasta de los patrones de diseños, además de ser una persona sumamente autodidacta.
   Me encanta los desafíos y descubrir nuevos retos.
-
+  
+* [LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
 * [Portfolio Web]( https://glaramos.github.io/Mi-Portfolio/)
