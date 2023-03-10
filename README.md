@@ -34,6 +34,6 @@ Soy, Desarrolladora, Me forme de *Secretaria Ejecutiva Universitaria* y *Técnic
   Soy una entusiasta de los patrones de diseños, además de ser una persona sumamente autodidacta.
   Me encanta los desafíos y descubrir nuevos retos.
   
-*  [This is an external link to LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
+*  [LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
 
-* [This is an external link to Portfolio Web]( https://glaramos.github.io/Mi-Portfolio/)
+* [Portfolio Web]( https://glaramos.github.io/Mi-Portfolio/)
