@@ -29,7 +29,7 @@ titulos=['Secretaria Ejecutiva Universitaria','Técnica Universitaria en Emprend
   
  # 👩 Sobre Mi... 
    
-Soy, Desarrolladora, Me forme de *Secretaria Ejecutiva Universitaria* y *Técnica Universitaria en Emprendimientos Turísticos*, He trabajado durante 13 años en el area de Hoteleria.  
+Soy, Desarrolladora, Me forme de *Secretaria Ejecutiva Universitaria* y *Técnica Universitaria en Emprendimientos Turísticos*, He trabajado durante 15 años en el area de Hoteleria.  
   He descubierto hace 4 años el mundo de la programación y me he sumergido en ella desde entonces, me apasiona la programación y
   Soy una entusiasta de los patrones de diseños, además de ser una persona sumamente autodidacta.
   Me encanta los desafíos y descubrir nuevos retos.
