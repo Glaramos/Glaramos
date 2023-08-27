@@ -37,4 +37,4 @@ Soy, Desarrolladora, Me forme de *Secretaria Ejecutiva Universitaria* y *Técnic
 *  [LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
 
 * [Portfolio Web]( https://glaramos.github.io/Mi-Portfolio/)
-* <a href="[http://example.com/](https://glaramos.github.io/Mi-Portfolio/)https://glaramos.github.io/Mi-Portfolio/" target="_blank">[Portfolio Web]</a>
+<a href="https://glaramos.github.io/Mi-Portfolio/" target="_blank">Hello, world!</a>
