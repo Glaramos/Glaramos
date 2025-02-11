@@ -29,7 +29,8 @@ titulos=['Secretaria Ejecutiva Universitaria','Técnica Universitaria en Emprend
   
  # 👩 Sobre Mi... 
    
-Soy, Analista de Datos utilizo Pandas, MatploLib, Seaborn, SQL, Power BI Desarrolladora, Me forme de *Secretaria Ejecutiva Universitaria* y *Técnica Universitaria en Emprendimientos Turísticos*, He trabajado durante 15 años en el area de Hoteleria.  
+Soy, Analista de Datos utilizo Pandas, MatploLib, Seaborn, SQL, Power BI; Y Desarrolladora. 
+Me forme de *Secretaria Ejecutiva Universitaria* y *Técnica Universitaria en Emprendimientos Turísticos*, He trabajado durante 15 años en el area de Hoteleria.  
   He descubierto màs de 3 años el mundo de la programación y el analisis de datos lo cual me he sumergido en ella desde entonces, me apasiona la programación y
   Soy una entusiasta de los patrones de diseños, además de ser una persona sumamente autodidacta.
   Me encanta los desafíos y descubrir nuevos retos.
@@ -38,7 +39,7 @@ Soy, Analista de Datos utilizo Pandas, MatploLib, Seaborn, SQL, Power BI Desarro
 
 * [Portfolio Web]( https://glaramos.github.io/Mi-Portfolio/)
   
-* [Portfolio Web](https://glaramos.github.io/Data-Analytics/)
+* [Portfolio Web Data Analytics](https://glaramos.github.io/Data-Analytics/)
 
 
 
