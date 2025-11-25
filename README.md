@@ -39,7 +39,7 @@ Me forme de *Secretaria Ejecutiva Universitaria* y *Técnica Universitaria en Em
 
 * [Portfolio Web]( https://glaramos.github.io/Mi-Portfolio/)
   
-* [Portfolio Web Data Analytics](https://glaramos.github.io/Data-Analytics/)
+* [Portfolio Web Data Analytics]( https://glaramos.github.io/PortfolioDataAnalysis/)
 
 
 
