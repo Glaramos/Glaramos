@@ -37,9 +37,9 @@ Me forme de *Secretaria Ejecutiva Universitaria* y *Técnica Universitaria en Em
   
 *  [LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
 
-* [Portfolio Web]( https://glaramos.github.io/Mi-Portfolio/)
+* [Portfolio Web](https://glaramos.github.io/Mi-Portfolio/)
   
-* [Portfolio Web Data Analytics target="_blank"]( https://glaramos.github.io/PortfolioDataAnalysis/)
+* [Portfolio Web Data Analytics](https://glaramos.github.io/PortfolioDataAnalysis/)
 
 
 
