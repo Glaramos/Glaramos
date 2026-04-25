@@ -2,13 +2,13 @@
  ![gla](https://user-images.githubusercontent.com/91395402/224195268-291d7cee-5a31-47b8-9ead-1d0eb56fb053.gif)
 
 
- ```python
+
 lenguaje=['JavaScript','typeScript','HTML','CSS','Python','java']
 framework=['Angular','Django','SpringBoot']
 herramienta=['FireBase','Postman','Wamp']
 certificados=['Desarrollo WEB FULL STACK CON PYTHON Y JAVASCRIPT - PoloTic Misiones','AWS - Silicom Misiones']
 titulos=['Secretaria Ejecutiva Universitaria','Técnica Universitaria en Emprendimientos Turísticos']
-  ```
+
   
 <h3 align="left">Herramientas y Lenguajes:</h3>
 <p align="left"> 
