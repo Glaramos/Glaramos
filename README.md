@@ -50,6 +50,5 @@ Soy entusiasta de los patrones de diseño y me considero una persona altamente a
   
 * [Portfolio Web Data Analytics](https://glaramos.github.io/PortfolioDataAnalysis/)
 
-
-
+* [Portfolio QA ](https://glaramos.github.io/portafolio-QA/)
 
