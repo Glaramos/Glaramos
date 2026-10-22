@@ -93,7 +93,7 @@ Soy **Analista de Datos, Desarrolladora Web Full Stack y QA Tester Manual**, con
 
 En análisis de datos trabajo con Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib y Streamlit para preparar, analizar y visualizar información, desarrollar indicadores y generar insights que contribuyan a la toma de decisiones.
 
-En desarrollo web trabajo con tecnologías como HTML, CSS, JavaScript, TypeScript, Angular, Django y Java. En testing manual, me enfoco en el diseño y ejecución de casos de prueba, documentación, reporte de defectos y validación funcional de aplicaciones web y APIs.
+En desarrollo web trabajo con tecnologías como HTML, CSS, JavaScript, TypeScript, React, Python, Django y Java. En testing manual, me enfoco en el diseño y ejecución de casos de prueba, documentación, reporte de defectos y validación funcional de aplicaciones web y APIs.
 
 Cuento con formación como Secretaria Ejecutiva Universitaria y Técnica Universitaria en Emprendimientos Turísticos, además de más de 15 años de experiencia en hotelería, administración y atención al cliente.
 
