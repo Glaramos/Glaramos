@@ -120,7 +120,8 @@ Desarrollo de **sitios web y aplicaciones**, utilizando tecnologías **frontend 
 ### 🧪 QA Manual Testing
 
 Realización de **pruebas funcionales**, diseño y ejecución de **casos de prueba**, documentación de resultados, **reporte de defectos** y validación de aplicaciones web y **APIs**.
----
+
+<a href="https://glaramos.github.io/portafolio-QA/" target="_blank" rel="noopener noreferrer">🔗 **Visitar mi Portfolio de QA Tester Manual**</a>
 
 ## 🎓 Formación y certificaciones
 
