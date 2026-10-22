@@ -1,58 +1,151 @@
  
+# 👋 ¡Hola! Soy Gladys Ramos
+
+### 📊 Data Analyst | 💻 Full Stack Web Developer | 🧪 QA Manual Tester
  ![gla](https://user-images.githubusercontent.com/91395402/224195268-291d7cee-5a31-47b8-9ead-1d0eb56fb053.gif)
 
-### 🧠 Skills
-Python
-Lenguajes = ['JavaScript', 'TypeScript', 'HTML', 'CSS', 'Python', 'Java']
+![GIF de presentación](https://user-images.githubusercontent.com/91395402/224195268-291d7cee-5a31-47b8-9ead-1d0eb56fb053.gif)
 
-Frameworks = ['Angular', 'Django', 'Spring Boot']
+---
 
-Herramientas = ['Firebase', 'Postman', 'Wamp']
+## 🧠 Skills
 
-Certificados=['Desarrollo WEB FULL STACK CON PYTHON Y JAVASCRIPT - PoloTic Misiones','AWS - Silicom Misiones']
+```python
+# Gladys Ramos | Perfil profesional
 
-Titulos=['Secretaria Ejecutiva Universitaria','Técnica Universitaria en Emprendimientos Turísticos']
+lenguajes = [
+    "Python",
+    "SQL",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Java"
+]
 
-<h3 align="left">🛠️ Herramientas y Lenguajes:</h3>
+frameworks = [
+    "Angular",
+    "Django",
+    "Spring Boot",
+    "Bootstrap"
+]
 
+herramientas = [
+    "Excel",
+    "Power BI",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Streamlit",
+    "MySQL",
+    "PostgreSQL",
+    "Git",
+    "GitHub",
+    "Firebase",
+    "Postman",
+    "Wamp"
+]
 
-<p align="left">
- <a href="https://aws.amazon.com">
-  <img src="https://img.icons8.com/color/48/amazon-web-services.png" width="40" style="margin:5px;"/>
-</a>
-<a href="https://firebase.google.com/"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" width="40" style="margin:5px;"/></a>
-<a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40" style="margin:5px;"/></a>
-<a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" style="margin:5px;"/></a>
-<a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" style="margin:5px;"/></a>
-<a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" style="margin:5px;"/></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" style="margin:5px;"/></a>
-<a href="https://www.djangoproject.com/"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" style="margin:5px;"/></a>
-<a href="https://spring.io/"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" style="margin:5px;"/></a>
-<a href="https://www.java.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" style="margin:5px;"/></a>
-<a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" style="margin:5px;"/></a>
-<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" style="margin:5px;"/></a>
-<a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" style="margin:5px;"/></a>
-</p>
-  
-# 👩 Sobre Mí
+especialidades = [
+    "Data Analytics",
+    "Business Intelligence",
+    "ETL y transformación de datos",
+    "Full Stack Web Development",
+    "QA Manual Testing",
+    "Análisis Comercial y Hotelero"
+]
 
-Soy Analista de Datos, Desarrolladora Web Full Stack y QA Tester Manual, con experiencia en diseño y ejecución de casos de prueba, documentación de testing, reporte de defectos y validación de aplicaciones web y APIs, apasionada por la tecnología y la mejora continua. Trabajo con herramientas como Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib y Streamlit para el análisis y visualización de datos, además de tecnologías web para el desarrollo de aplicaciones y sitios modernos.
+certificados = [
+    "Desarrollo Web Full Stack con Python y JavaScript - Polo TIC Misiones",
+    "AWS - Silicom Misiones"
+]
 
-Me formé como Secretaria Ejecutiva Universitaria y Técnica Universitaria en Emprendimientos Turísticos, y cuento con más de 15 años de experiencia en el sector hotelero y en atención al cliente. Esta trayectoria me permitió desarrollar habilidades de organización, comunicación, resolución de problemas y orientación a resultados.
+titulos = [
+    "Secretariado Ejecutivo Universitario",
+    "Técnica Universitaria en Emprendimientos Turísticos"
+]
+```
 
-Hace más de 4 años inicié mi camino en el mundo de la tecnología, especializándome en análisis de datos, desarrollo de software y aseguramiento de la calidad (QA). Disfruto transformar datos en información valiosa, desarrollar soluciones digitales y garantizar la calidad de los productos mediante pruebas funcionales y documentación de testing.
+---
 
-Me considero una persona autodidacta, responsable y comprometida con el aprendizaje continuo. Me motivan los desafíos, la innovación y la oportunidad de aportar valor a través de la tecnología.
+## 🛠️ Herramientas y tecnologías
 
-### 🧠 Skills — Python
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
+[![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)](https://www.microsoft.com/excel)
+[![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](https://angular.dev/)
+[![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
+[![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/)
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot)
+[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
+---
 
-  
-*  [LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
+## 👩 Sobre mí
 
-* [Portfolio Web FullStack](https://glaramos.github.io/Portafolio-Fullstack/)
-  
-* [Portfolio Web Data Analytics](https://glaramos.github.io/PortfolioDataAnalysis/)
+Soy **Analista de Datos, Desarrolladora Web Full Stack y QA Tester Manual**, con conocimientos en análisis y transformación de datos, desarrollo de aplicaciones web y aseguramiento de la calidad del software.
 
-* [Portfolio QA Tester Manual](https://glaramos.github.io/portafolio-QA/)
+En análisis de datos trabajo con Python, SQL, Excel, Power BI, Pandas, NumPy, Matplotlib y Streamlit para preparar, analizar y visualizar información, desarrollar indicadores y generar insights que contribuyan a la toma de decisiones.
+
+En desarrollo web trabajo con tecnologías como HTML, CSS, JavaScript, TypeScript, Angular, Django y Java. En testing manual, me enfoco en el diseño y ejecución de casos de prueba, documentación, reporte de defectos y validación funcional de aplicaciones web y APIs.
+
+Cuento con formación como Secretaria Ejecutiva Universitaria y Técnica Universitaria en Emprendimientos Turísticos, además de más de 15 años de experiencia en hotelería, administración y atención al cliente.
+
+Esta combinación de experiencia y conocimientos me permite comprender las necesidades de los negocios y aportar soluciones tecnológicas aplicadas a distintos sectores, especialmente hotelería, turismo, administración y análisis comercial.
+
+Me considero una persona autodidacta, organizada y comprometida con la mejora continua. Disfruto aprender nuevas tecnologías, resolver problemas y transformar ideas y datos en soluciones útiles.
+
+---
+
+## 🚀 Mis proyectos y portfolios
+
+### 📊 Data Analytics
+
+Proyectos de limpieza, transformación y análisis de datos, consultas SQL, análisis exploratorio y dashboards para visualizar indicadores y apoyar la toma de decisiones.
+
+🔗 [Visitar mi Portfolio de Data Analytics](https://glaramos.github.io/PortfolioDataAnalysis/)
+
+### 💻 Desarrollo Web Full Stack
+
+Proyectos de desarrollo web y aplicaciones utilizando tecnologías frontend y backend.
+
+🔗 [Visitar mi Portfolio Full Stack](https://glaramos.github.io/Portafolio-Fullstack/)
+
+### 🧪 QA Manual Testing
+
+Proyectos de testing funcional, diseño de casos de prueba, validación de aplicaciones web, pruebas de APIs y documentación de defectos.
+
+🔗 [Visitar mi Portfolio QA Tester Manual](https://glaramos.github.io/portafolio-QA/)
+
+---
+
+## 🎓 Formación y certificaciones
+
+- Secretariado Ejecutivo Universitario.
+- Técnica Universitaria en Emprendimientos Turísticos.
+- Desarrollo Web Full Stack con Python y JavaScript — Polo TIC Misiones.
+- Formación en AWS — Silicom Misiones.
+
+---
+
+## 🤝 Contacto y redes profesionales
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
+- 🐙 [GitHub](https://github.com/Glaramos)
+- 📊 [Portfolio Data Analytics](https://glaramos.github.io/PortfolioDataAnalysis/)
+- 💻 [Portfolio Full Stack](https://glaramos.github.io/Portafolio-Fullstack/)
+- 🧪 [Portfolio QA Testing](https://glaramos.github.io/portafolio-QA/)
+
+Estoy abierta a proyectos freelance, colaboraciones y oportunidades profesionales en análisis de datos, Business Intelligence, desarrollo web, testing y soluciones digitales para empresas.
 
