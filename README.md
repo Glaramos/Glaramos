@@ -1,10 +1,5 @@
- 
-# 👋 ¡Hola! Soy Gladys Ramos
-
 ### 📊 Data Analyst | 💻 Full Stack Web Developer | 🧪 QA Manual Tester
  ![gla](https://user-images.githubusercontent.com/91395402/224195268-291d7cee-5a31-47b8-9ead-1d0eb56fb053.gif)
-
-![GIF de presentación](https://user-images.githubusercontent.com/91395402/224195268-291d7cee-5a31-47b8-9ead-1d0eb56fb053.gif)
 
 ---
 
@@ -112,22 +107,19 @@ Me considero una persona autodidacta, organizada y comprometida con la mejora co
 
 ### 📊 Data Analytics
 
-Proyectos de limpieza, transformación y análisis de datos, consultas SQL, análisis exploratorio y dashboards para visualizar indicadores y apoyar la toma de decisiones.
+Desarrollo de proyectos de **análisis de datos**, **limpieza y transformación de información**, consultas **SQL**, análisis exploratorio y creación de **dashboards** para visualizar indicadores comerciales y hoteleros.
 
-🔗 [Visitar mi Portfolio de Data Analytics](https://glaramos.github.io/PortfolioDataAnalysis/)
+<a href="https://glaramos.github.io/PortfolioDataAnalysis/" target="_blank" rel="noopener noreferrer">🔗 **Visitar mi Portfolio de Data Analytics**</a>
 
 ### 💻 Desarrollo Web Full Stack
 
-Proyectos de desarrollo web y aplicaciones utilizando tecnologías frontend y backend.
+Desarrollo de **sitios web y aplicaciones**, utilizando tecnologías **frontend y backend**, con foco en la funcionalidad, la organización del código y la **experiencia del usuario**.
 
-🔗 [Visitar mi Portfolio Full Stack](https://glaramos.github.io/Portafolio-Fullstack/)
+<a href="https://glaramos.github.io/Portafolio-Fullstack/" target="_blank" rel="noopener noreferrer">🔗 **Visitar mi Portfolio Full Stack**</a>
 
 ### 🧪 QA Manual Testing
 
-Proyectos de testing funcional, diseño de casos de prueba, validación de aplicaciones web, pruebas de APIs y documentación de defectos.
-
-🔗 [Visitar mi Portfolio QA Tester Manual](https://glaramos.github.io/portafolio-QA/)
-
+Realización de **pruebas funcionales**, diseño y ejecución de **casos de prueba**, documentación de resultados, **reporte de defectos** y validación de aplicaciones web y **APIs**.
 ---
 
 ## 🎓 Formación y certificaciones
@@ -143,9 +135,6 @@ Proyectos de testing funcional, diseño de casos de prueba, validación de aplic
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
 - 🐙 [GitHub](https://github.com/Glaramos)
-- 📊 [Portfolio Data Analytics](https://glaramos.github.io/PortfolioDataAnalysis/)
-- 💻 [Portfolio Full Stack](https://glaramos.github.io/Portafolio-Fullstack/)
-- 🧪 [Portfolio QA Testing](https://glaramos.github.io/portafolio-QA/)
 
 Estoy abierta a proyectos freelance, colaboraciones y oportunidades profesionales en análisis de datos, Business Intelligence, desarrollo web, testing y soluciones digitales para empresas.
 
