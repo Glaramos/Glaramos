@@ -44,6 +44,61 @@ Hace más de 4 años inicié mi camino en el mundo de la tecnología, especializ
 
 Me considero una persona autodidacta, responsable y comprometida con el aprendizaje continuo. Me motivan los desafíos, la innovación y la oportunidad de aportar valor a través de la tecnología.
 
+### 🧠 Skills — Python
+
+```python
+# Gladys Ramos | Perfil profesional
+
+lenguajes = [
+    "Python",
+    "SQL",
+    "JavaScript",
+    "TypeScript",
+    "HTML",
+    "CSS",
+    "Java"
+]
+
+frameworks = [
+    "Angular",
+    "Django",
+    "Spring Boot",
+    "Bootstrap"
+]
+
+herramientas = [
+    "Excel",
+    "Power BI",
+    "Pandas",
+    "NumPy",
+    "Matplotlib",
+    "Streamlit",
+    "Git",
+    "GitHub",
+    "Postman",
+    "Firebase",
+    "Wamp"
+]
+
+areas = [
+    "Data Analytics",
+    "Business Intelligence",
+    "Full Stack Web Development",
+    "QA Manual Testing",
+    "Hotel & Commercial Analytics"
+]
+
+certificados = [
+    "Desarrollo Web Full Stack con Python y JavaScript - Polo TIC Misiones",
+    "AWS - Silicom Misiones"
+]
+
+titulos = [
+    "Secretariado Ejecutivo Universitario",
+    "Técnica Universitaria en Emprendimientos Turísticos"
+]
+```
+
   
 *  [LinkedIn](https://www.linkedin.com/in/gladys-angelica-ramos/)
 
